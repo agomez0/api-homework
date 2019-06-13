@@ -21,4 +21,4 @@ The Python script utilizes the Pandas and Matplotlib libraries to visualize the 
 
 ### Data Retrieved: [Weather Data](output_data/cities.csv)
 
-### Findings: [](findings.txt)
+### [Findings](findings.txt)
