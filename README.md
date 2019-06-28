@@ -9,6 +9,12 @@ The Python script utilizes the Pandas and Matplotlib libraries to visualize the 
 
 * NOTE: Make sure to obtain and enter your OpenWeatherMap API Key in the [api_keys.py](api_keys.py) file before running the script.
 
+### Programs Used:
+* Python Pandas
+* Matplotlib
+* Citipy
+* OpenWeatherMap
+
 ### Scatter Plots Examining the Relationship Between:
 
 ![Latitude vs. Temp](images/latvstemp.png)
